@@ -11,4 +11,4 @@ const a=function(str){
     return vowels;
 }
 
-console.log(a("apple"));
+console.log(a("vignesh"));
